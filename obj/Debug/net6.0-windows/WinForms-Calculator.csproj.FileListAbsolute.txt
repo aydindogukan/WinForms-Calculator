@@ -1,0 +1,17 @@
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Calculator\bin\Debug\net6.0-windows\WinForms-Calculator.exe
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Calculator\bin\Debug\net6.0-windows\WinForms-Calculator.deps.json
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Calculator\bin\Debug\net6.0-windows\WinForms-Calculator.runtimeconfig.json
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Calculator\bin\Debug\net6.0-windows\WinForms-Calculator.dll
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Calculator\bin\Debug\net6.0-windows\WinForms-Calculator.pdb
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Calculator\obj\Debug\net6.0-windows\WinForms-Calculator.csproj.AssemblyReference.cache
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Calculator\obj\Debug\net6.0-windows\WinForms_Calculator.Form1.resources
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Calculator\obj\Debug\net6.0-windows\WinForms-Calculator.csproj.GenerateResource.cache
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Calculator\obj\Debug\net6.0-windows\WinForms-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Calculator\obj\Debug\net6.0-windows\WinForms-Calculator.AssemblyInfoInputs.cache
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Calculator\obj\Debug\net6.0-windows\WinForms-Calculator.AssemblyInfo.cs
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Calculator\obj\Debug\net6.0-windows\WinForms-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Calculator\obj\Debug\net6.0-windows\WinForms-Calculator.dll
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Calculator\obj\Debug\net6.0-windows\refint\WinForms-Calculator.dll
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Calculator\obj\Debug\net6.0-windows\WinForms-Calculator.pdb
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Calculator\obj\Debug\net6.0-windows\WinForms-Calculator.genruntimeconfig.cache
+C:\Users\doguk\OneDrive\Masaüstü\tmp\WinForms-Calculator\obj\Debug\net6.0-windows\ref\WinForms-Calculator.dll
